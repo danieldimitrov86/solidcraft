@@ -1,0 +1,6 @@
+{
+  "en": {
+    "nav.free_orbit_upright.label": "Turn around the vertical axis",
+    "nav.free_orbit_upright.help": "Sideways mouse drags spin the model around the world's vertical axis; up and down drags tilt over the top without a limit."
+  }
+}
